@@ -1,13 +1,13 @@
-# 📊 Customer Churn Prediction (Machine Learning Project)
+# Customer Churn Prediction (Machine Learning Project)
 
-## 🔍 Project Overview
+## Project Overview
 This project develops a predictive analytics solution to identify customers at risk of churn in a telecommunications dataset.
 
 The goal is to enable proactive retention strategies using machine learning and data-driven insights.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 Customer churn is a major challenge for subscription-based businesses. Retaining existing customers is significantly more cost-effective than acquiring new ones.
 
 This project aims to:
@@ -17,7 +17,7 @@ This project aims to:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, NumPy)
 - Scikit-learn
 - XGBoost
@@ -26,14 +26,14 @@ This project aims to:
 
 ---
 
-## 📈 Models Used
+## Models Used
 - Logistic Regression
 - Random Forest
 - XGBoost
 
 ---
 
-## 📊 Key Results
+## Key Results
 - Best Model: Logistic Regression
 - ROC-AUC: ~0.84
 - Recall (Churn Class): ~0.79
@@ -41,7 +41,7 @@ This project aims to:
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 - Customers with low tenure are most likely to churn
 - Higher monthly charges increase churn risk
 - Month-to-month contracts have highest churn rates
@@ -50,7 +50,7 @@ This project aims to:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 - Implement early churn detection system
 - Incentivise long-term contracts
 - Optimise pricing for high-risk segments
@@ -59,12 +59,12 @@ This project aims to:
 
 ---
 
-## 🔬 Model Explainability
+## Model Explainability
 SHAP (Shapley Additive Explanations) was used to interpret model predictions and identify key drivers of churn.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add time-series features
 - Implement real-time prediction system
 - Use cost-sensitive learning
@@ -72,11 +72,11 @@ SHAP (Shapley Additive Explanations) was used to interpret model predictions and
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 (briefly describe your folders)
 
 ---
 
-## 👨‍💻 Author
+## Author
 Dhanuja Boyagoda
-Master of Business Analytics — Deakin Universi
+Master of Business Analytics — Deakin University
